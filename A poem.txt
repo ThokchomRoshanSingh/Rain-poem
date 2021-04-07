@@ -1,7 +1,9 @@
 The rainbow 
 red 
 orange 
-yellew 
+yellew
+green
 blue
 indigo
 violet
+This are the colour of the rainbow
