@@ -1,4 +1,4 @@
-The rainbow 
+The rainbow and the unicorn
 red 
 orange 
 yellew
@@ -7,3 +7,4 @@ blue
 indigo
 violet
 This are the colour of the rainbow
+The required unicorn.
